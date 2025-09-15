@@ -1,4 +1,4 @@
-# EX NO: 2 : Cloud Storage Creation (S3), Launching EC2 Instance, and VPC in AWS  
+# EX NO. 2 : Cloud Storage Creation (S3), Launching EC2 Instance, and VPC in AWS  
 
 **NAME:** A S Siddarth  
 **REG NO:** 212224040316  
