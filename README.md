@@ -61,4 +61,10 @@ To create cloud storage using **Amazon S3**, launch an **EC2 instance**, and set
 ## Output  
 
 
----
+<img width="1920" height="1200" alt="Screenshot 2025-09-15 141428" src="https://github.com/user-attachments/assets/6ddefdf9-d7dd-4912-82a1-9a04b050a343" />
+
+---<img width="1920" height="1200" alt="Screenshot 2025-09-15 141906" src="https://github.com/user-attachments/assets/ba81c47e-8964-4b92-91fd-b1065e0209ad" />
+
+<img width="1920" height="1200" alt="Screenshot 2025-09-15 142006" src="https://github.com/user-attachments/assets/d2227033-bf9a-40c7-8b3e-959752558376" />
+
+<img width="1920" height="1200" alt="Screenshot 2025-09-15 142319" src="https://github.com/user-attachments/assets/07f338e9-5cfe-4f4b-9396-089a3efd0768" />
