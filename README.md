@@ -1,4 +1,4 @@
-# EX NO. 2 : Cloud Storage Creation (S3), Launching EC2 Instance, and VPC in AWS  
+# EX NO: 2 : Cloud Storage Creation (S3), Launching EC2 Instance, and VPC in AWS  
 
 **NAME:** A S Siddarth  
 **REG NO:** 212224040316  
@@ -52,9 +52,57 @@ To create cloud storage using **Amazon S3**, launch an **EC2 instance**, and set
 ---
 
 ## Services Overview  
-- **Amazon S3** → Object storage for files, backups, and media.  
-- **Amazon EC2** → Virtual server hosting applications.  
-- **Amazon VPC** → Secure, isolated virtual network in AWS.  
+
+### 1. Amazon EC2 (Elastic Compute Cloud)  
+**Features**  
+- Scalable virtual servers in the cloud.  
+- Supports multiple operating systems (Linux, Windows, macOS).  
+- Pay-as-you-go pricing.  
+- Elastic Load Balancing and Auto Scaling support.  
+
+**Advantages**  
+- Highly flexible (choose CPU, memory, storage).  
+- Reliable and secure.  
+- Easily integrates with other AWS services.  
+
+**Disadvantages**  
+- Costs can increase with long-term usage if not monitored.  
+- Requires technical expertise to configure and secure properly.  
+
+---
+
+### 2. Amazon S3 (Simple Storage Service)  
+**Features**  
+- Object-based storage for files and backups.  
+- Unlimited storage capacity.  
+- Data versioning and lifecycle policies.  
+- High availability and durability (99.999999999% durability).  
+
+**Advantages**  
+- Scalable and reliable.  
+- Easy to integrate with apps and services.  
+- Cost-effective storage with different storage classes.  
+
+**Disadvantages**  
+- Not suitable for block storage or databases.  
+- Costs may rise with frequent data retrieval (from Glacier/IA tiers).  
+
+---
+
+### 3. Amazon VPC (Virtual Private Cloud)  
+**Features**  
+- Provides isolated virtual networks.  
+- Supports subnets, route tables, NAT gateways, and VPN connections.  
+- Control over inbound/outbound traffic via security groups and NACLs.  
+
+**Advantages**  
+- High level of security and network isolation.  
+- Customizable network architecture.  
+- Easy integration with on-premises networks.  
+
+**Disadvantages**  
+- More complex to configure compared to default networking.  
+- Misconfiguration may lead to security issues.  
 
 ---
 
